@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /orix-wallpaper/
+Sitemap: https://bullseyearc494.github.io/orix-wallpaper/sitemap.xml
